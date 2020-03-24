@@ -12,7 +12,7 @@ def create_project_hash
     projects[project] = {}
   end
 
-  projects
+  puts projects
 
 end
 
